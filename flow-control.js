@@ -19,7 +19,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-
+return conditionToTest1? valueToBeReturnedIfTrue : valueToBeReturnedIfFalse
 }
 
 function switchAge(age) {
